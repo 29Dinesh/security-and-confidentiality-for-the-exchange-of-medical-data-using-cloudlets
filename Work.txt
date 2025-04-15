@@ -1,0 +1,61 @@
+Cloudlet
+
+---Login
+
+--- View all patients and authorize
+
+--- View all doctors and authorize
+
+--- Vliew all patient Cloudlet data with enc format
+
+--- View Patient data access request and authorize
+
+--- View all Cloudlet Intruders details
+
+--- View patient details recovered details
+
+--- View No.Of same symptoms in Chart(Symptom name vs  No.Of Patients)
+
+--- View No.Of Patients refered same doctor in Chart(Doctor name vs  No.Of Patients)
+
+
+Doctor
+
+--- Register and Login,View Profile
+
+--- View patient details and give solution like Medicine details,Medical prescription details
+
+--- View all patient Medical prescription Details
+
+
+Patient
+
+
+-- Register and Login,View profile
+
+-- Request Data Access permission from cloudlet and view Response
+
+--- Access Your data and select doctor from combo box and send to corresponding doctor  
+
+--- View doctor response with Medical prescription
+
+--- Verify your data and recover
+
+--- View and delete your details 
+
+
+Wearable Device
+
+
+-- Login
+
+-- Collect Patient data and Upload to Cloudlet like pid,pname,paddress,pcno,pemail,ppulse,pecg,pSymptoms,brwose and attch about symptoms with Digital sign,add pimage
+   (Encrypt all parametes except pname)
+
+-- View all patient collecte data in enc format with digital sign
+
+
+Intruder
+
+ --- Enter patient name and inject some false data.
+   
